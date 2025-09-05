@@ -1,0 +1,6 @@
+.two-columns {
+    columns: 2; /* Split into 2 columns */
+    -webkit-columns: 2; /* For Safari and Chrome */
+    column-gap: 20px; /* Space between columns */
+    list-style-position: inside; /* Keeps bullets inside the columns */
+}
